@@ -65,8 +65,7 @@ export default function Home() {
                                         <input type="hidden" name="code" id="countryname" value="IN" className="countryname" />
                                         <input 
                                           id="phone" 
-                                          maxLength="10" 
-                                          minLength="10" 
+                                          pattern="\d{10}" 
                                           name="phone" 
                                           size="20" 
                                           className="required number phone" 
