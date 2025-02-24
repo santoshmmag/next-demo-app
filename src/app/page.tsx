@@ -65,7 +65,7 @@ export default function Home() {
                                     <label>Mobile Number<span>*</span></label><br />
                                     <div className="col-12">
                                         <input type="hidden" name="code" id="countryname" value="IN" className="countryname" />
-                                        <input id="phone" maxLength="10" minLength="10" name="phone" size="20" className="required number phone" type="tel" placeholder="" />                       
+                                        <input id="phone" maxLength="10" minLength="10" name="phone" size="20" className="required number phone" type="tel" />                       
                                     </div>
                                     <div className="clearfix"></div>                                 
                                   </div>
