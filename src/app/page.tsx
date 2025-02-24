@@ -66,8 +66,7 @@ export default function Home() {
                                         <input 
                                           id="phone" 
                                           pattern="\d{10}" 
-                                          name="phone" 
-                                          size="20" 
+                                          name="phone"                          
                                           className="required number phone" 
                                           type="tel" 
                                         />                       
