@@ -59,7 +59,7 @@ export default function Home() {
 
                                   <div className="col-6 col-xs-12 form-group-wrapper">
                                     <label>Name<span>*</span></label><br />
-                                    <input type="text" name="name" id="name" className="form-control required" required="" />
+                                    <input type="text" name="name" id="name" className="form-control required" />
                                   </div>  
                                   <div className="col-6 col-xs-12 form-group-wrapper phone_wrapper">
                                     <label>Mobile Number<span>*</span></label><br />
