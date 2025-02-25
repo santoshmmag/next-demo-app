@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
 html { -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
-html, body{padding: 0;margin: 0;font-size: 16px;-webkit-font-smoothing: antialiased;font-family: "Cairo", serif;font-weight: 400;color: #333333;/*color: #41152D;*/
+html, body{padding: 0;margin: 0;font-size: 16px;-webkit-font-smoothing: antialiased;font-family: "Cairo", serif;font-weight: 400;color: #333333;
       line-height: 26px;overflow-x: hidden;}
       a, img, button, input[type=submit]{text-decoration: none;outline: none; border: 0;}
       a{color: #333333;}
@@ -199,8 +199,8 @@ html, body{padding: 0;margin: 0;font-size: 16px;-webkit-font-smoothing: antialia
       /*Common CSS Start*/
       .dis-flex{display: flex;align-items: center;}
       .theme-btn{display: inline-block;padding:12px 40px;color:#fff;background: #D71C23;transition: background 0.5s;line-height: 30px;cursor: pointer;font-size: 20px;min-width: 150px;text-align: center;cursor: pointer;font-weight: 700;border-radius: 30px;leading-trim: both;text-edge: cap;}
-      .secHeading{leading-trim: both;text-edge: cap;font-size: 36px;font-style: normal;font-weight: 700;line-height: 45px;margin-bottom: 30px;}
-      .list{list-style-type: disc;}
+      .secHeading{leading-trim: both;text-edge: cap;font-size: 36px;font-style: normal;font-weight: 700;line-height: 45px;margin-bottom: 30px;color: #333333;}
+      .list{list-style-type: disc;color: #333333;}
       .list li{padding: 10px 0;}
       /*Common CSS End*/
 
