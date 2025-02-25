@@ -49,7 +49,7 @@ export default function Home() {
                           <div className="banner-form-wrapper">
                             <div className="formHeading">Open a Demat Account with YES Securities</div>
                               <div className="customForm">                  
-                                <form className="enquire-form" id="enquiryForm" method="POST" noValidate>
+                                {/*<form className="enquire-form" id="enquiryForm" method="POST" noValidate>
                                   <input type="hidden" name="utmsource" className="utmSource" />
                                   <input type="hidden" name="utmcampaign" className="utmCampaign" />
                                   <input type="hidden" name="utmmedium" className="utmMedium" />
@@ -85,7 +85,7 @@ export default function Home() {
                                     </div>
                                   </div>
                                   <div className="clearfix"></div>
-                                </form>
+                                </form>*/}
                                 {/*<div id="enquirySuccess" className="success text-center text-purple text-semiBold pd-bt-20" >Your response has been received.<br /> Our sales team will get in touch with you soon.</div>             */}
                               </div>
                           </div>
